@@ -1,6 +1,5 @@
 # 500-data-structure-challange
 ### Array
-
 [1.Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
 
 [2.Check if subarray with 0 sum is exists or not](http://www.techiedelight.com/check-subarray-with-0-sum-exists-not/)
